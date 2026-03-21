@@ -1,0 +1,27 @@
+[
+  {
+    "event": "failed to log on",
+    "user": "victim",
+    "host": "DESKTOP-R8PMJ31",
+    "timestamp": "2026-03-21T06:55:10"
+  },
+  {
+    "event": "failed to log on",
+    "user": "victim",
+    "host": "DESKTOP-R8PMJ31",
+    "timestamp": "2026-03-21T06:55:15"
+  },
+  {
+    "event": "logged on",
+    "user": "victim",
+    "host": "DESKTOP-R8PMJ31",
+    "timestamp": "2026-03-21T06:55:45"
+  },
+  {
+    "event": "Process Create",
+    "process": "cmd.exe",
+    "user": "victim",
+    "host": "DESKTOP-R8PMJ31",
+    "timestamp": "2026-03-21T06:56:10"
+  }
+]
